@@ -6,6 +6,6 @@ Here is the overview of the functionalities provided by Unique Merged Url produc
 
 * Automatically merge all css files and making sure that it will be shown as newest.
 * Automatically merge all javascript files and making sure that it will be shown as newest.
-* Check if merge was successful
+* Check if merge was successful.
 
 Copyright StuntCoders — [Start Your Online Store Now](http://stuntcoders.com/)
