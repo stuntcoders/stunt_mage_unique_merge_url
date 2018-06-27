@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Stuntcoders_UniqueMergedUrl>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Stuntcoders_UniqueMergedUrl>
+    </modules>
+</config>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Stuntcoders_UniqueMergedUrl>
+            <version>0.1.0</version>
+        </Stuntcoders_UniqueMergedUrl>
+    </modules>
+    <global>
+        <models>
+            <stuntcoders_uniquemergedurl>
+                <class>Stuntcoders_UniqueMergedUrl_Model</class>
+                <resourceModel>stuntcoders_uniquemergedurl_resource</resourceModel>
+            </stuntcoders_uniquemergedurl>
+            <stuntcoders_uniquemergedurl>
+                <class>Stuntcoders_UniqueMergedUrl_Model_Resource</class>
+            </stuntcoders_uniquemergedurl>
+            <core>
+                <rewrite>
+                    <design_package>Stuntcoders_UniqueMergedUrl_Model_Design_Package</design_package>
+                </rewrite>
+            </core>
+        </models>
+    </global>
+</config>
